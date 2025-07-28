@@ -352,10 +352,6 @@ if (process.env.NODE_ENV === "production") {
  - Push to the branch.
  - Open a pull request.
  
-  ## Contributors 🤝
-  @MehraDevesh2022 
-
- 
 > Happy chatting with ChatMind! If you have any questions or need further assistance, feel free to reach out.
  
 
